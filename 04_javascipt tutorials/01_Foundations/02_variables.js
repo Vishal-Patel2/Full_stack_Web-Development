@@ -1,6 +1,6 @@
-var firstName = "Ajay"; // old way of declaring variables, not recommended
-let middleName = "Bata Krushna"; // new way of declaring variables
-const lastName = "Panigrahi"; // new way of declaring constants
+var firstName = "Vishal"; // old way of declaring variables, not recommended
+let middleName = "Kumar"; // new way of declaring variables
+const lastName = "Patel"; // new way of declaring constants
 // console.log(firstName, middleName, lastName);
 
 var sampleVariableOne = 101;
