@@ -11,14 +11,14 @@ let sampleObject = {}; // empty object
 // console.log(typeof sampleObject);
 
 let allUsers = {
-  firstName: "Ajay",
-  lastName: "Panigrahi",
+  firstName: "Vishal",
+  lastName: "Patel",
 };
 // console.log(allUsers);
 // console.log(typeof allUsers);
 allUsers.age = 20;
 // console.log(allUsers.age);
-allUsers["full name"] = "Ajay B Panigrahi";
+allUsers["full name"] = "Vishal Patel";
 // console.log(allUsers);
 
 const anotherObject = { userName: "Arjun" };
