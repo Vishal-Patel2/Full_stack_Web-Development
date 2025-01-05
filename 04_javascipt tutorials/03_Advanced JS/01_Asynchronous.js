@@ -1,4 +1,4 @@
-// Asynchronous Javascript with event loop
+// Asynchronous Javascript with event loop concept
 function sayHello() {
     console.log("I would like to say Hello");
   }
