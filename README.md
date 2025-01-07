@@ -30,7 +30,7 @@ If you have any questions or suggestions, please reach out:
 
 ## Just for Laughs
 
-Why do programmers prefer dark mode?
+Why do programmers prefer dark mode ?
 
 Because light attracts bugs! 🐛💻
 
