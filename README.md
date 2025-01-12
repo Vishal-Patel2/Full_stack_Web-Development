@@ -7,6 +7,8 @@ Welcome to the FullStackWebDev repository! This is where I will document my lear
 - BOOTSTRAP
 - TAILWIND CSS
 - JavaScript
+- Git & GitHub
+- SQL & NOSQL
 - React
 - Backend development
 
