@@ -7,62 +7,44 @@
 ## 📦 Repository  
 A **repository** is where your code lives. It’s like a folder but with extra features like version control.
 
-Check repository status:
-
-```bash
+# Check repository status:
 git status
 
 ## ⚙️ Setup Git  
 Set your email and username globally:
 
-```bash
 git config --global user.email "your-email@example.com"
 git config --global user.name "Your Name"
 
-##Check your settings:
-
-```bash
+## Check your settings:
 git config --list
 
-##🛠️ Create a Repository
+## 🛠️ Create a Repository
 # Initialize a repository:
-
-```bash
 git init
 
-##📝 Commit Changes
-#To commit changes:
-
-```bash
+## 📝 Commit Changes
+# To commit changes:
 git commit -m "Your commit message"
 
-##🗂️ Stage Files
+## 🗂️ Stage Files
 #To stage files:
-
-```bash
 git add <file> <file2>
 
-##🚀 Push to Github
+## 🚀 Push to Github
 After committing, push your changes:
-
-```bash
 git push origin main
 
-##📜 View Logs
+## 📜 View Logs
 To see commit history:
-
-```bash
 git log
 
-##🔧 Change Default Editor
+## 🔧 Change Default Editor
 Set VSCode as the default editor:
-
-```bash
 git config --global core.editor "code --wait"
 
-##🛑 Gitignore
+## 🛑 Gitignore
 Create a .gitignore to exclude files from tracking:
-```bash
 node_modules/
 .env
 .vscode/
