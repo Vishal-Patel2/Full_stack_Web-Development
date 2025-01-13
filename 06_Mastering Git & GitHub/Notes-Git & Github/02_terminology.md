@@ -20,15 +20,15 @@ git config --global user.name "Your Name"
 git config --list
 
 ## 🛠️ Create a Repository
-# Initialize a repository:
+ Initialize a repository:
 git init
 
 ## 📝 Commit Changes
-# To commit changes:
+ To commit changes:
 git commit -m "Your commit message"
 
 ## 🗂️ Stage Files
-#To stage files:
+To stage files:
 git add <file> <file2>
 
 ## 🚀 Push to Github
