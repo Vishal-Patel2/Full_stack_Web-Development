@@ -1,5 +1,3 @@
-
-```markdown
 # Git and Github  
 
 ## 🛠 Introduction to Git  
@@ -29,8 +27,7 @@ Github is a **web-based platform** for hosting Git repositories. It allows you t
 
 ## 🔄 A Little About Version Control Systems  
 
-Version control systems manage the **history of your code**.
- They:  
+Version control systems manage the **history of your code**. They:  
 - Allow you to track changes to your files.  
 - Enable collaboration with other developers.  
 
@@ -38,8 +35,8 @@ Version control systems manage the **history of your code**.
 You can always go back to a previous checkpoint if needed.  
 
 #### **Before Git:**  
-Early version control systems like **SCCS (Source Code Control System)** were proprietary and expensive.
- Git replaced these systems, making version control **accessible** and **user-friendly**.  
+Early version control systems like **SCCS (Source Code Control System)** were proprietary and expensive.  
+Git replaced these systems, making version control **accessible** and **user-friendly**.  
 
 Other version control systems include:  
 - Subversion (SVN)  
@@ -90,5 +87,3 @@ By the end of this tutorial, you’ll have a solid understanding of Git and Gith
 ---
 
 💡 **Pro Tip:** Focus on learning Git first. Github will become intuitive as you progress!  
-```
-
