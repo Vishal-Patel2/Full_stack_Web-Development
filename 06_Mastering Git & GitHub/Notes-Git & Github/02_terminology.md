@@ -1,4 +1,4 @@
-# Git and Github Terminology
+# Git and Github Basic Terminology
 
 ## 🧑‍💻 Git Basics  
 - **Git**: Version control system for tracking code changes.  
