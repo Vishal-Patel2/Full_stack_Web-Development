@@ -1,11 +1,5 @@
 
 # SQL Introduction
-## Learn and Community
-Check out our wide range of our courses.  
-We have a Discord community where you can ask questions and get help from the community.
-
----
-
 ## Chapter 1: Introduction to Databases and SQL
 
 ### What is SQL?
